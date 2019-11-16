@@ -16,6 +16,7 @@ h2 {
 }
 
 h3 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
     display:inline;
     text-align: right;
 }
@@ -35,7 +36,8 @@ body {
 
 .container {
     width: 960px;
-    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
 }
 
 p {
@@ -55,12 +57,18 @@ a {
 }
 
 #name {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 36px;
     font-weight: bold;
     background-color: #4aaaa5;
     color: #ffffff;
     padding: 20px;
 }
+
+#navigation
+    {
+        float: right;
+    }
 
 main {
     background-color: #ffffff;
@@ -74,9 +82,20 @@ ul {
     padding: 0;
   }
 
-img {
-    display: inline-block;
+.profile {
+    display: inline;
+    float: left;
+    padding: 20px;
+}
 
+img {
+    display: inline;
+    padding: 30px;
+}
+
+#headshot {
+    float: left;
+    padding-left: 0px;
 }
 
 .button {
@@ -103,6 +122,7 @@ body {
 
 p {
     text-align: left;
+    border: 20px;
 
 }
 
