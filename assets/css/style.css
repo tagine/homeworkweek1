@@ -8,11 +8,11 @@
 h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     
+    
 }
 
 h2 {
     margin: 0;
-    padding: 0;
 }
 
 h3 {
@@ -51,11 +51,15 @@ a {
     background-color: #ffffff;
     border-color: #cccccc;
     display: block;
+    padding: 20px;
 }
 
 #name {
     font-size: 36px;
     font-weight: bold;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px;
 }
 
 main {
@@ -71,7 +75,7 @@ ul {
   }
 
 img {
-    display: inline;
+    display: inline-block;
 
 }
 
@@ -91,6 +95,17 @@ body {
 
 }
 
+#floated{
+    float: left;
+    width: 150px;
+    
+}
+
+p {
+    text-align: left;
+
+}
+
 footer {
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
@@ -98,4 +113,8 @@ footer {
     height: auto;
 }
 
+form {
+    
+
+}
 
