@@ -45,9 +45,9 @@ p {
 }
 
 
-a {
+/* a {
 
-}
+} */
 
 .header {
     background-color: #ffffff;
@@ -109,10 +109,10 @@ img {
     font-size: 16px;
   }
 
-body { 
+/* body { 
 
 
-}
+} */
 
 #floated{
     float: left;
@@ -133,8 +133,8 @@ footer {
     height: auto;
 }
 
-form {
+/* form {
     
 
-}
+} */
 
