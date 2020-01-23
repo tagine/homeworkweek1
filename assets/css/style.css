@@ -136,7 +136,8 @@ footer {
     border-top: 8px solid #291528;
     text-align: center;
     height: auto;
-    padding-top: 60px;
+    margin-top: auto;
+    padding-top: 200px;
 }
 
 
