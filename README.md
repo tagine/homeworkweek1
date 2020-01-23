@@ -24,6 +24,6 @@ SO THAT I can showcase my applications to potential employers and clients
 
 ### Deployed portfolio
 
-![Link to app] (http://tagine.github.io/homework1)
+https://tagine.github.io/homeworkweek1
 
 
